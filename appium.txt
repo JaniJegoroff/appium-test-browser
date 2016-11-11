@@ -1,0 +1,5 @@
+[caps]
+platformName = "ios"
+platformVersion = "10.1"
+deviceName = "iPhone 7"
+browserName = "Safari"
